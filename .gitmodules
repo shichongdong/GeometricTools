@@ -23,3 +23,12 @@
 [submodule "GTE/Samples/CSharpCppManaged/CppLibrary/utfcpp"]
 	path = GTE/Samples/CSharpCppManaged/CppLibrary/utfcpp
 	url = https://github.com/nemtrif/utfcpp.git
+[submodule "GTE/Samples/CSharpCppManaged/CppLibrary/geojson-cpp"]
+	path = GTE/Samples/CSharpCppManaged/CppLibrary/geojson-cpp
+	url = https://github.com/mapbox/geojson-cpp.git
+[submodule "GTE/Samples/CSharpCppManaged/CppLibrary/geometry"]
+	path = GTE/Samples/CSharpCppManaged/CppLibrary/geometry
+	url = https://github.com/mapbox/geometry.hpp.git
+[submodule "GTE/Samples/CSharpCppManaged/CppLibrary/variant"]
+	path = GTE/Samples/CSharpCppManaged/CppLibrary/variant
+	url = https://github.com/mapbox/variant.git
